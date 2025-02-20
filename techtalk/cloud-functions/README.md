@@ -1,6 +1,4 @@
-# IBM Cloud Functions with Cloudant Tutorial
-
-For a detailed walkthrough, please follow the [tutorial](https://thenewstack.io/walkthrough-building-serverless-applications-ibm-bluemix/)
+# IBM Cloud Functions with Cloudant 
 
 ## Check available Packages
 ```
