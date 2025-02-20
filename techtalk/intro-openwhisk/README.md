@@ -1,6 +1,4 @@
-# OpenWhisk SendGrid Tutorial
-
-For a detailed walkthrough, please follow the [tutorial](https://www.linkedin.com/pulse/getting-started-apache-openwhisk-janakiram-msv)
+# OpenWhisk SendGrid 
 
 ## Create Action
 ```
